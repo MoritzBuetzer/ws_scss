@@ -11,7 +11,7 @@
         "sass"
     ],
     "require": {
-        "typo3/cms-core": "^12",
+        "typo3/cms-core": "^12 || ^13",
         "php": "^8.0 || ^8.1 || ^8.2",
         "scssphp/scssphp": "^1"
     },
