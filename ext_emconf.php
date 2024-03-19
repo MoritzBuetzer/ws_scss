@@ -14,7 +14,7 @@ $EM_CONF['ws_scss'] = [
     'title' => 'SASS compiler for TYPO3',
     'description' => 'Compiles scss files to CSS files.',
     'category' => 'fe',
-    'version' => '12.0.5',
+    'version' => '13.0.0',
     'state' => 'stable',
     'clearcacheonload' => 0,
     'author' => 'Sven Wappler',
@@ -23,7 +23,7 @@ $EM_CONF['ws_scss'] = [
     'constraints' => [
         'depends' => [
             'php' => '8.0.0-8.2.99',
-            'typo3' => '12.0.0-12.4.99',
+            'typo3' => '12.0.0-13.9.99',
         ],
         'conflicts' => [
         ],
